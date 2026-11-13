@@ -1,0 +1,21 @@
+# Visual Studio build results and developer environment
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
+*.exp
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
